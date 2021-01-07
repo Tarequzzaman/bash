@@ -1,5 +1,11 @@
 # bash
 
+
+For running 
+
+```
+bash array.sh
+```
 The perpose of this project is learning bash script 
 
 
